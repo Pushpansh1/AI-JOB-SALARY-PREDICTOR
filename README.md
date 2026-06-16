@@ -228,9 +228,9 @@ The model predicts the **expected salary based on similar job profiles**.
 
 ## Author
 
-**Gourav Singh Thakur**
+**Pushpansh**
 
-Data Scientist | Machine Learning | AI
+Data Scientist
 
 ---
 
